@@ -1,0 +1,35 @@
+BFS:
+Path: 0 -> 1 -> 9 -> 8 -> 14 -> 16
+Time: 0.0000000000 seconds
+Memory: 0.7265625000 KB
+
+DFS:
+Path: 0 -> 1 -> 2 -> 3 -> 5 -> 4 -> 6 -> 7 -> 11 -> 8 -> 14 -> 16
+Time: 0.0000000000 seconds
+Memory: 1.9218750000 KB
+
+UCS:
+Path: 0 -> 2 -> 1 -> 9 -> 4 -> 5 -> 7 -> 6 -> 11 -> 10 -> 14 -> 13 -> 16
+Time: 0.0000000000 seconds
+Memory: 8.3281250000 KB
+
+IDS:
+Path: 0 -> 1 -> 9 -> 8 -> 14 -> 16
+Time: 0.0000000000 seconds
+Memory: 0.4062500000 KB
+
+GBFS:
+Path: 0 -> 1 -> 9 -> 4 -> 10 -> 13 -> 16
+Time: 0.0000000000 seconds
+Memory: 3.6328125000 KB
+
+A_STAR:
+Path: 0 -> 2 -> 1 -> 9 -> 4 -> 10 -> 13 -> 16
+Time: 0.0000000000 seconds
+Memory: 2.5937500000 KB
+
+Hill Climbing:
+Path: -1
+Time: 0.0000000000 seconds
+Memory: 0.1250000000 KB
+
