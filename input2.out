@@ -1,7 +1,7 @@
 BFS:
 Path: 0 -> 6 -> 11 -> 5
 Time: 0.0000000000 seconds
-Memory: 0.8281250000 KB
+Memory: 0.8046875000 KB
 
 DFS:
 Path: 0 -> 6 -> 3 -> 1 -> 7 -> 4 -> 5
@@ -10,7 +10,7 @@ Memory: 1.4375000000 KB
 
 UCS:
 Path: 0 -> 9 -> 3 -> 13 -> 5
-Time: 0.0000000000 seconds
+Time: 0.0011556149 seconds
 Memory: 9.5390625000 KB
 
 IDS:

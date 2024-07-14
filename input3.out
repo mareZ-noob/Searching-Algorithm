@@ -1,7 +1,7 @@
 BFS:
 Path: 5 -> 14 -> 12 -> 11
 Time: 0.0000000000 seconds
-Memory: 0.8906250000 KB
+Memory: 0.8593750000 KB
 
 DFS:
 Path: 5 -> 10 -> 0 -> 6 -> 11

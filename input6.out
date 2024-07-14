@@ -1,7 +1,7 @@
 BFS:
 Path: 97 -> 31 -> 19 -> 73
 Time: 0.0000000000 seconds
-Memory: 6.3046875000 KB
+Memory: 6.2578125000 KB
 
 DFS:
 Path: 97 -> 4 -> 8 -> 18 -> 25 -> 9 -> 29 -> 3 -> 30 -> 21 -> 6 -> 39 -> 1 -> 32 -> 14 -> 10 -> 40 -> 11 -> 15 -> 36 -> 46 -> 5 -> 19 -> 73
@@ -10,7 +10,7 @@ Memory: 13.2890625000 KB
 
 UCS:
 Path: 97 -> 31 -> 19 -> 73
-Time: 0.0021414757 seconds
+Time: 0.0024018288 seconds
 Memory: 55.5859375000 KB
 
 IDS:
@@ -20,12 +20,12 @@ Memory: 0.2500000000 KB
 
 GBFS:
 Path: 97 -> 27 -> 45 -> 91 -> 69 -> 23 -> 56 -> 37 -> 73
-Time: 0.0000000000 seconds
+Time: 0.0005040169 seconds
 Memory: 21.6093750000 KB
 
 A_STAR:
 Path: 97 -> 31 -> 19 -> 73
-Time: 0.0019998550 seconds
+Time: 0.0010046959 seconds
 Memory: 18.3515625000 KB
 
 Hill Climbing:

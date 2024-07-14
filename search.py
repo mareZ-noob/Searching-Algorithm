@@ -74,9 +74,7 @@ class Graph:
         while queue:
             node, path = queue.pop(0)
 
-            neighbour = self.graph[node]
-            sorted_neighbour = sorted(neighbour)
-            for i in sorted_neighbour:
+            for i in sorted(self.graph[node]):
                 if not visited[i]:
                     visited[i] = True
                     if i == end:
@@ -95,9 +93,9 @@ class Graph:
         while stack:
             (vertex, path) = stack.pop()
 
-            neighbors_list = self.graph[vertex]
-            sorted_neighbors = sorted(neighbors_list, reverse=True)
-            for neighbor in sorted_neighbors:
+            # neighbors_list = self.graph[vertex]
+            # sorted_neighbors = sorted(neighbors_list, reverse=True)
+            for neighbor in sorted(self.graph[vertex], reverse=True):
                 if neighbor not in path:
                     if neighbor == end:
                         return path + [neighbor]
